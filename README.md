@@ -24,12 +24,16 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+</head>
 
 <body>
-    <center><img src="Screenshot 2025-03-13 104300.png" height="250px" width="500px"</center>
-    
-    
-        <caption>
+    <center><img src="Screenshot 2025-03-13 104300.png" height="200px" width="250px"</center>
+    <caption>
             <center>
                 <h6 style="font-size: larger;"> SLOT TIME TABLE-MOHANA PRIYA R (24900710) </h6>
             </center>
@@ -42,7 +46,7 @@ Execute the program using runserver command.
                     <td style="background-color: yellow;">MONDAY</td>
                     <td style="background-color: yellow;">TUESDAY</td>
                     <td style="background-color: yellow;">WEDNESDAY</td>
-                    <td style="background-color:yellow;">THURSDAY</td>
+                    <td style="background-color: yellow;">THURSDAY</td>
                     <td style="background-color: yellow;">FRIDAY</td>
             </tr>
             <tr>
